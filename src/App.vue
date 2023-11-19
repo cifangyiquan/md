@@ -14,7 +14,7 @@ html,
 body,
 #app {
   width: 100%;
-  height: 100%;
+  height: 100%-15px;
   margin: 0;
   padding: 0;
 }
@@ -45,11 +45,11 @@ body,
   border-radius: 4px;
   max-height: 20em;
   min-width: 200px;
-  font-size: 12px;
+  font-size: 18px;
   font-family: monospace;
 
-  color: #333333;
-  background-color: #ffffff;
+  color: #fff;
+  background-color: #333;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
 }
 

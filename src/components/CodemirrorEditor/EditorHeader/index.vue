@@ -472,6 +472,8 @@ export default {
 
 .el-dropdown-link {
   cursor: pointer;
+  font-size: 18px;
+  color: #fff;
 }
 
 .padding-left-3 {
