@@ -2,8 +2,12 @@
   <el-container class="header-container is-dark">
     <div class="logo">
       <a href="http://aeeis.cn" class="logo_link">
-        <img class="logo_img" src="http://aeeis.cn/static/img/logo-white.png"
-        height="50" width="50"/>
+        <img
+          class="logo_img"
+          src="http://aeeis.cn/static/img/logo-white.png"
+          height="50"
+          width="50"
+        />
       </a>
     </div>
     <div class="dropdowns">
